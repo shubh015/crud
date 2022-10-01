@@ -15,11 +15,18 @@
       "id": 3
     },
     {
-      "name": "assa",
-      "username": "sasas",
-      "email": "sas",
-      "phone": "asas",
-      "id": 4
+      "name": "Aniket Singh",
+      "username": "ani@123",
+      "email": "ani@gmail.com",
+      "phone": "9876543210",
+      "id": 5
+    },
+    {
+      "name": "anivesh",
+      "username": "abcd1234@",
+      "email": "abcb@gmail.com",
+      "phone": "987456321",
+      "id": 6
     }
   ]
 }
